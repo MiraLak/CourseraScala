@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-library-2.10.1-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/docs/org.scala-lang/scala-library/scala-library-2.10.1-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

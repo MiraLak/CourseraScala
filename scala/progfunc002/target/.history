@@ -1,0 +1,14 @@
+compile
+test
+run
+main
+test
+compile
+exit
+compile
+test
+run
+exit
+compile
+test
+exit

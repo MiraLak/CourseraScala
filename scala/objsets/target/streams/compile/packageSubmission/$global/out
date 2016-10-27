@@ -1,0 +1,11 @@
+[info] Packaging /home/amira/Projects/coursera/scala/objsets/target/scala-2.10/progfun-objsets_2.10-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	objsets/TweetSet.scala
+[debug] 	  /home/amira/Projects/coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala
+[debug] 	objsets/TweetReader.scala
+[debug] 	  /home/amira/Projects/coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala
+[debug] 	objsets/TweetData.scala
+[debug] 	  /home/amira/Projects/coursera/scala/objsets/src/main/scala/objsets/TweetData.scala
+[debug] 	common/package.scala
+[debug] 	  /home/amira/Projects/coursera/scala/objsets/src/main/scala/common/package.scala
+[info] Done packaging.

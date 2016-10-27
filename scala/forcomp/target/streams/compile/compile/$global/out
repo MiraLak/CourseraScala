@@ -1,0 +1,33 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/home/amira/Projects/coursera/scala/forcomp/src/main/scala/forcomp/Anagrams.scala)
+[debug] Removed products: Set(/home/amira/Projects/coursera/scala/forcomp/target/scala-2.10/classes/forcomp/Anagrams$.class, /home/amira/Projects/coursera/scala/forcomp/target/scala-2.10/classes/forcomp/Anagrams$$anonfun$2.class, /home/amira/Projects/coursera/scala/forcomp/target/scala-2.10/classes/forcomp/Anagrams$$anonfun$1.class, /home/amira/Projects/coursera/scala/forcomp/target/scala-2.10/classes/forcomp/Anagrams.class)
+[debug] Modified external sources: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/home/amira/Projects/coursera/scala/forcomp/src/main/scala/forcomp/Anagrams.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(/home/amira/Projects/coursera/scala/forcomp/src/main/scala/forcomp/Anagrams.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] Initially invalidated: Set(/home/amira/Projects/coursera/scala/forcomp/src/main/scala/forcomp/Anagrams.scala)
+[info] Compiling 1 Scala source to /home/amira/Projects/coursera/scala/forcomp/target/scala-2.10/classes...
+[debug] Running cached compiler 141c22, interfacing (CompilerInterface) with Scala compiler version 2.10.1
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-feature
+[debug] 	-d
+[debug] 	/home/amira/Projects/coursera/scala/forcomp/target/scala-2.10/classes
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/jdk1.7.0_03/jre/lib/resources.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/rt.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/sunrsasign.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/jce.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.7.0_03/jre/classes:/home/amira/.sbt/boot/scala-2.10.1/lib/scala-library.jar
+[debug] 	-classpath
+[debug] 	/home/amira/Projects/coursera/scala/forcomp/target/scala-2.10/classes
+[debug] Scala compilation took 1.843637347 s
+[debug] Step 2 changed sources and immdediate dependencies:
+[debug] 	Set()
+[debug] Non-trivial strongly connected components: 
+[debug] 	
+[debug] Step 2 invalidated sources:
+[debug] 	Set()
